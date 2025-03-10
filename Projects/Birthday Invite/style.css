@@ -1,0 +1,17 @@
+body{
+    background-color: #f0f0f0;
+    font-family: 'Arial', sans-serif;
+    margin: 10px;
+    padding: 5px;
+}
+
+h1{
+    text-align: left;
+    color: #cc13dd;
+    margin-top: 20px;
+}
+
+b{
+    color: #131ddd;
+    font-style: italic;
+}

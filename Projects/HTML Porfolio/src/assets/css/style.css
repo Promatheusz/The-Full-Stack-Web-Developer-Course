@@ -1,0 +1,25 @@
+h1{
+    color: rgb(226, 3, 3);
+    text-align: left;
+}
+
+.footer-link {
+    display: inline;
+    margin-right: 10px; /* Adjust the space as needed */
+}
+
+/* Footer Styles */
+footer {
+    text-align: left;
+    background-color: #18a4e5;
+    color: #0743d0;
+    position: fixed;
+    width: 100%;
+}
+
+/* Image Styles */
+img {
+    margin: 20px auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
